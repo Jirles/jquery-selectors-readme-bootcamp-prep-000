@@ -1,5 +1,4 @@
-// declare your functions here...
-// declare your functions here...
+
 function paragraphSelector(){
   //select and return all p tags
   $('p');
