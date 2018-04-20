@@ -2,25 +2,25 @@
 // declare your functions here...
 function paragraphSelector(){
   //select and return all p tags
-  $('p')
+  $('p');
 }
 
 function lastImageSelector(){
   //returns last image
-  $('img:last')
+  $('img:last');
 }
 
 function ninjaBabySelector(){
   //use id selector to get baby gif
-  $('#baby-ninja')
+  $('#baby-ninja');
 }
 
 function divSelector(){
   //use class selector to get divs labelled pics
-  $('.pics')
+  $('.pics');
 }
 
 function firstListItem(){
   //use first child selector to get first item in ul with ID pic-list
-  $('#pic-list li:first-child')
+  $('#pic-list li:first-child');
 }
