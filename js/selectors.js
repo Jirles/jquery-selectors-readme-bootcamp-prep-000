@@ -24,10 +24,3 @@ function firstListItem(){
   $('#pic-list li:first-child');
 }
 
-$(function(){
-  paragraphSelector();
-  lastImageSelector();
-  ninjaBabySelector();
-  divSelector();
-  firstListItem();
-});
