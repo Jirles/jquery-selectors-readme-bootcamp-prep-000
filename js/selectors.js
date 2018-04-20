@@ -23,3 +23,11 @@ function firstListItem(){
   //use first child selector to get first item in ul with ID pic-list
   $('#pic-list li:first-child');
 }
+
+$(function(){
+  paragraphSelector();
+  lastImageSelector();
+  ninjaBabySelector();
+  divSelector();
+  firstListItem();
+});
